@@ -79,6 +79,15 @@ header {
   color: #F7FFF7;
 }
 
+.work {
+	color: #fff1cf;
+  background: #2F3061;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+
+}
 
 /* Projects
 ------------------------------------*/
