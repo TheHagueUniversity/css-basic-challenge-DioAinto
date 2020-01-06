@@ -150,6 +150,16 @@ header {
   color: #ffc55c;
 }
 
+.hobbies {
+  background-color: white;
+  background-size: cover;
+  background-position: top right;
+  padding-bottom: 100px;
+}
+.hobbies p {
+  width: 60%;
+  color: #ffc55c;
+}
 
 /* Contact Info
 ------------------------------------*/
